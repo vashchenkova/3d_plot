@@ -1,4 +1,3 @@
-# hello-world
-Initial repository
+# 3D plot
 
-Launch info
+3D plot js
